@@ -1,0 +1,35 @@
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\Control panel program for the robot via C sharp.exe
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\Control panel program for the robot via C sharp.deps.json
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\Control panel program for the robot via C sharp.runtimeconfig.json
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\Control panel program for the robot via C sharp.runtimeconfig.dev.json
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\Control panel program for the robot via C sharp.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\Control panel program for the robot via C sharp.pdb
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\MySql.Data.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\obj\Release\netcoreapp3.1\Control panel program for the robot via C sharp.csprojAssemblyReference.cache
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\obj\Release\netcoreapp3.1\Control_panel_program_for_the_robot_via_C_sharp.configuration_database_Form2.resources
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\obj\Release\netcoreapp3.1\Control_panel_program_for_the_robot_via_C_sharp.Homepage_Form1.resources
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\obj\Release\netcoreapp3.1\Control_panel_program_for_the_robot_via_C_sharp.Properties.Resources.resources
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\obj\Release\netcoreapp3.1\Control panel program for the robot via C sharp.csproj.GenerateResource.cache
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\obj\Release\netcoreapp3.1\Control panel program for the robot via C sharp.AssemblyInfoInputs.cache
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\obj\Release\netcoreapp3.1\Control panel program for the robot via C sharp.AssemblyInfo.cs
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\obj\Release\netcoreapp3.1\Control panel program for the robot via C sharp.csproj.CoreCompileInputs.cache
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\obj\Release\netcoreapp3.1\Control panel program for the robot via C sharp.csproj.CopyComplete
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\obj\Release\netcoreapp3.1\Control panel program for the robot via C sharp.dll
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\obj\Release\netcoreapp3.1\Control panel program for the robot via C sharp.pdb
+C:\Users\world\source\repos\Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\obj\Release\netcoreapp3.1\Control panel program for the robot via C sharp.genruntimeconfig.cache
