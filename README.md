@@ -24,13 +24,17 @@ In this animation there are additional options that refer to my account, descrip
 
 
 
-Home page image:
+Home page:
 
 ![much-a image](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/Image%20to%20home%20page.png) 
 
 Database control page:
 
 ![much-a image](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/Image%20to%20setup%20database.png)
+
+The contact information option and with it my accounts and the smart methods training company:
+
+![much-a image](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/Image%20to%20the%20contact%20information.png)
 
 
 # How to use the program?
