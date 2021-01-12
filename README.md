@@ -7,11 +7,22 @@ The idea of the program is a control panel with a robot arm to control it with a
 
 In this animation, we see the program interface and experiments with it
 
-![alt text](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/An%20animated%20picture%20showing%20the%20program%20interface%20and%20what%20it%20contains.gif "GIF of program ")
+![alt text](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/1%20An%20animated%20picture%20showing%20the%20program%20interface%20and%20what%20it%20contains.gif "GIF of program ")
+
+In this animation, try deleting from the database in the designated window
+
+![alt text](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/2%20An%20animated%20picture%20showing%20the%20experience%20of%20deleting%20from%20the%20database.gif "GIF of a program with delete from database ")
+
 
 In this animation, we test the features, do you work efficiently or not with the local database that was implemented through a program XAMPP, and the answer is yes, as you can see.
 
-![alt text](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/An%20animation%20showing%20the%20effectiveness%20of%20the%20program%20with%20databases.gif "GIF of a program with database ")
+![alt text](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/3%20An%20animation%20showing%20the%20effectiveness%20of%20the%20program%20with%20databases.gif "GIF of a program with database ")
+
+In this animation there are additional options that refer to my account, description during training, version number and some information
+
+![alt text](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/4%20An%20animated%20picture%20showing%20additional%20options%20for%20communication.gif "GIF of a program with additional options ")
+
+
 
 Home page image:
 
@@ -27,6 +38,7 @@ Database control page:
 It is possible if you do not have the program in which you implemented the project, which is a program (Visual Studio 2019)
 
 This path and the file open and open within the folder
+
 `Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\Control panel program for the robot via C sharp.exe`
 
 
