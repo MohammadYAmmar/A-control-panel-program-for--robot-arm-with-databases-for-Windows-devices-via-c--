@@ -15,11 +15,19 @@ In this animation, we test the features, do you work efficiently or not with the
 
 Home page image:
 
-![much-a image]() 
+![much-a image](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/Image%20to%20home%20page.png) 
 
 Database control page:
 
-![much-a image]()
+![much-a image](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/Image%20to%20setup%20database.png)
+
+
+# How to use the program?
+
+It is possible if you do not have the program in which you implemented the project, which is a program (Visual Studio 2019)
+
+This path and the file open and open within the folder
+`Control panel program for the robot via C sharp\Control panel program for the robot via C sharp\bin\Release\netcoreapp3.1\Control panel program for the robot via C sharp.exe`
 
 
 # Component Diagram of software 
