@@ -78,6 +78,16 @@ It is true that there are some shortcomings in the program, but it is the first 
 
 # Future work
 
-It is to supplement the databases page by making the variables can be switched like their location if they were on another device, but the challenge here is to discover the rows because entering the rows manually is not practical, and it is the challenge in the next update 🔜
+It is to supplement the databases page by making the variables can be switched like their location if they were on another device, but the challenge here is to discover the rows because entering the rows manually is not practical, and it is the challenge in the next update 🔜(Wait no more, this is the program: )
+
+#### <p> [Desktop program](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp)</p>
+
+Home page:
+
+![much-a image](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/Image%20to%20home%20page.png) 
+
+Database control page:
+
+![much-a image](https://github.com/MohammadYAmmar/A-control-panel-program-for-robot-arm-with-databases-for-Windows-devices-via-c-sharp/blob/main/Image%20to%20setup%20database.png)
 
 Certainly, linking the start button to an actual robot so that the project is complete 🤖
